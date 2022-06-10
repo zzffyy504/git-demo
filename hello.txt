@@ -12,5 +12,6 @@ hello zfy! hello git!
 hello zfy! hello git!
 hello zfy! hello git! master test
 hello zfy! hello git!
+hello zfy! hello git! hot-fix test
 hello zfy! hello git!
 
